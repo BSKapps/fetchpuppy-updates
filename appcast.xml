@@ -6,6 +6,15 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.1</title>
+            <pubDate>Sat, 19 Apr 2026 06:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Bug fixes and performance improvements.</p>]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.0.1-build6/Fetch.Puppy.2.0.1.6.zip" sparkle:edSignature="OcmRv56uWN1FS3N4iTtTCXc9BI9iU/Xmx5gPbzOUTugsawkd1shCdqhKpLar36duryGF19b92jyuREj2vNXQCw==" length="5756673" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0</title>
             <pubDate>Sun, 19 Apr 2026 04:19:31 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
