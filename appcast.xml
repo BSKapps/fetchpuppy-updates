@@ -7,16 +7,12 @@
         <language>en</language>
         <item>
             <title>Version 2.0</title>
-            <pubDate>Sun, 19 Apr 2026 04:10:40 +0000</pubDate>
+            <pubDate>Sun, 19 Apr 2026 04:19:31 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<p>Bug fixes and performance improvements.</p>]]></description>
-            <enclosure
-                url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.0-build5/Fetch.Puppy.2.0.zip"
-                sparkle:edSignature="EebUftOMQ/dRfoCuYoEu42f96tJnFIT069sOomladDW76vxF7FXOh0MX93NYTpgWVEUNOh3R1tHg2Qo9Ry9ZDw=="
-                length="6904339"
-                type="application/octet-stream" />
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.0-build5/Fetch.Puppy.2.0.zip" sparkle:edSignature="TsSNCo+ENLqGVdsBz/ld9HD/Z+PthWh+g6DZ9i7s3ievDBZsfanIKK8ENVj3W/UTEGEH4vpU1VjNn/yal+76Dw==" length="5777290" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
