@@ -6,6 +6,27 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.2</title>
+            <pubDate>Mon, 22 Jun 2026 00:18:50 +1000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Rebuilt search preview/Added download button: streams load in the background as results appear, open faster, and play reliably</li>
+<li style="margin-bottom:6px">Now works on Intel Macs as well as Apple Silico</li>
+<li style="margin-bottom:6px">Each download row shows its actual format (MP3, AAC, MP4 and so on)</li>
+<li style="margin-bottom:6px">Drag several links at once to download them together, with faster track matching for Spotify, Apple Music and CSV</li>
+<li style="margin-bottom:6px">YouTube playlists now list every track, filling in as they load</li>
+<li style="margin-bottom:6px">Reddit and other social links that need browser cookies now download</li>
+<li style="margin-bottom:6px">Elapsed timer stops when a download finishes</li>
+<li style="margin-bottom:6px">MP3 downloads are now true 320 kbps CBR (were variable bitrate)</li>
+<li style="margin-bottom:6px">YouTube playlists can be cancelled mid-download, and a failed playlist can be retried</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.2/Fetch.Puppy.2.2.zip" length="79668552" type="application/octet-stream" sparkle:edSignature="XWcTb+/K3gkKFb5n16dmX83LaOA1TeA1+xuFNMXgtLeJnjPSw8CpBJ4jyX3k+gxkWDbUUHLwdVUWrNoEm3d6AQ=="/>
+        </item>
+        <item>
             <title>Version 2.1.1</title>
             <pubDate>Fri, 30 May 2026 06:00:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
