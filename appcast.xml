@@ -6,6 +6,25 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.3</title>
+            <pubDate>Tue, 23 Jun 2026 19:29:24 +1000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">More reliable YouTube downloads. Apple Music links now work reliably</li>
+<li style="margin-bottom:6px">Optional "use one format for every service" setting: pick Audio or Video and a format once and it applies to every tab (off by default; each mode keeps its own setting otherwise)</li>
+<li style="margin-bottom:6px">Search results you have previewed stay highlighted, with the most recent one marked, so you can find your way back</li>
+<li style="margin-bottom:6px">The preview window Download button now shows the format you will get (MP3, MP4 and so on)</li>
+<li style="margin-bottom:6px">On the Search tab, right-click a Download button (in the list or the preview) to grab that result in a one-off format without changing your saved choice</li>
+<li style="margin-bottom:6px">On the Search tab, downloading a result keeps you on Search and marks it Added, so you can line up several without leaving the page</li>
+<li style="margin-bottom:6px">Queued playlists get ready in the background while they wait, so they start the moment their turn comes</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.3/Fetch.Puppy.2.3.zip" length="80908103" type="application/octet-stream" sparkle:edSignature="j/iooMFGKJIKaauuTkPmyGewXuc4KwXbqDEW44mlCanC0dGFyIh6dvAIVcI3hD/ZNf/aqjHTY6XqHFI7cGOlAw=="/>
+        </item>
+        <item>
             <title>2.2</title>
             <pubDate>Mon, 22 Jun 2026 00:18:50 +1000</pubDate>
             <sparkle:version>9</sparkle:version>
