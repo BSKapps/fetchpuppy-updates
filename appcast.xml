@@ -6,6 +6,24 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.4</title>
+            <pubDate>Sat, 11 Jul 2026 00:27:05 +1000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Search results and video names appear much faster</li>
+<li style="margin-bottom:6px">Better drag and drop: thumbnails work, and a video dragged from a playlist skips the playlist question</li>
+<li style="margin-bottom:6px">Downloads tab shows progress and results more clearly, including a progress ring in the sidebar</li>
+<li style="margin-bottom:6px">Download engine updated</li>
+<li style="margin-bottom:6px">Cancelled downloads show as Cancelled, not Failed</li>
+<li style="margin-bottom:6px">Failed downloads are reported correctly and can be retried</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.4/Fetch.Puppy.2.4.zip" length="81017613" type="application/octet-stream" sparkle:edSignature="aMNRS2zsMhp6ZHK31xQESyVsy3LgJ9SJ+9Ok5etVAVMOJvp65dXLGpF8ZhVSW5FDt62N7tcDcZRed9LOgzz/Aw=="/>
+        </item>
+        <item>
             <title>2.3</title>
             <pubDate>Tue, 23 Jun 2026 19:29:24 +1000</pubDate>
             <sparkle:version>10</sparkle:version>
