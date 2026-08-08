@@ -6,6 +6,21 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.4.1</title>
+            <pubDate>Sun, 09 Aug 2026 09:16:40 +1000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">TikTok downloads are far more reliable, retries are handled automatically</li>
+<li style="margin-bottom:6px">Cancelling a download no longer removes it if you click twice (delay on remove button being active)</li>
+<li style="margin-bottom:6px">Other minor fixes</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.4.1/Fetch.Puppy.2.4.1.zip" length="81116112" type="application/octet-stream" sparkle:edSignature="W3ELXtw+1CI7IQ9965chCnehUh3a0qEoRtkfO96zBf9tBffoHYpAl0qv0rpMZWd41MtIHoJ855Wn2nuGEMkHBw=="/>
+        </item>
+        <item>
             <title>2.4</title>
             <pubDate>Sat, 11 Jul 2026 00:27:05 +1000</pubDate>
             <sparkle:version>11</sparkle:version>
