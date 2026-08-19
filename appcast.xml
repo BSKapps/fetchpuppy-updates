@@ -6,6 +6,22 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.5</title>
+            <pubDate>Wed, 19 Aug 2026 17:05:34 +1000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Downloads from YouTube, Spotify and Apple Music work again after recent site changes</li>
+<li style="margin-bottom:6px">The download engine now downloads minor updates in the background</li>
+<li style="margin-bottom:6px">Searches match the right recording more reliably</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.5/Fetch.Puppy.2.5.zip" length="81120896" type="application/octet-stream" sparkle:edSignature="ke2Che2DPEYgMm0kLQ8SO79etk95gNj7jpV6kzPWlVsDUIobFjvKJs0TaH/zATG/ADbPz0+9TAq4qiFq0CxOCA=="/>
+        </item>
+        <item>
             <title>2.4.1</title>
             <pubDate>Sun, 09 Aug 2026 09:16:40 +1000</pubDate>
             <sparkle:version>12</sparkle:version>
