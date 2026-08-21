@@ -6,6 +6,23 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.6</title>
+            <pubDate>Fri, 21 Aug 2026 23:06:53 +1000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Filtering improvements; Spotify and Apple Music now fetch the album version of a track, not the music video. Stops tracks arriving with a video intro or a silent tail on the end. Sped up, slowed and pitch shifted uploads are no longer picked</li>
+<li style="margin-bottom:6px">Number tracks in playlists/albums is now on the Spotify, Apple Music and CSV tabs, not just in Settings</li>
+<li style="margin-bottom:6px">A single track no longer arrives with 01 on the front of its name</li>
+<li style="margin-bottom:6px">Tracks matched to a different recording are tagged "Closest match" and show their real length</li>
+<li style="margin-bottom:6px">Clearer wording while a track is being found, and when a download comes back incomplete</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.6/Fetch.Puppy.2.6.zip" length="81137626" type="application/octet-stream" sparkle:edSignature="36VlmMIvdjrSRi/t3mHoNUalyhIKF6uPQV0MvnGDk/Hpjs9jptYbiphs5fkNgOQq6OPgXicr1iMBvTu7L6IZDg=="/>
+        </item>
+        <item>
             <title>2.5</title>
             <pubDate>Wed, 19 Aug 2026 17:05:34 +1000</pubDate>
             <sparkle:version>13</sparkle:version>
