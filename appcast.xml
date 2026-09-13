@@ -6,6 +6,44 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.7</title>
+            <pubDate>Sun, 13 Sep 2026 20:33:02 +1000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">Drag several Apple Music songs in together and they download as one batch</li>
+<li style="margin-bottom:6px">Dropping several links on the menu bar icon works the same as dropping them on the window</li>
+<li style="margin-bottom:6px">Apple Music session and live versions are tagged "Closest match" when only a different recording can be found</li>
+<li style="margin-bottom:6px">Search marks live streams, which can't be previewed</li>
+<li style="margin-bottom:6px">Quitting while downloads are running now asks first</li>
+<li style="margin-bottom:6px">Refreshed look across the window, sidebar and buttons</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">Apple Music links load faster and more reliably</li>
+<li style="margin-bottom:6px">Search previews load in a few seconds again, and stay loaded when you reopen one</li>
+<li style="margin-bottom:6px">Downloads retry automatically when YouTube blocks the connection</li>
+<li style="margin-bottom:6px">Facebook and Vimeo videos saved as MP4 now play in QuickTime and QLab</li>
+<li style="margin-bottom:6px">Long video conversions are no longer cut off partway through</li>
+<li style="margin-bottom:6px">A stopped or failed video conversion no longer leaves a broken file in your folder</li>
+<li style="margin-bottom:6px">Clearer messages for Apple Music links that can't be downloaded: library playlists, personal mixes and music videos</li>
+<li style="margin-bottom:6px">Threads is no longer listed; Snapchat support is Spotlight videos only</li>
+<li style="margin-bottom:6px">Dropping a Facebook link from Firefox no longer warns about multiple links</li>
+<li style="margin-bottom:6px">The Fetch button and format pills stay put as you switch modes, and the window can no longer be sized too narrow for them</li>
+<li style="margin-bottom:6px">The downloads puppy runs the full width again, with a proper trot in both directions</li>
+<li style="margin-bottom:6px">Download engine updated</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">None known</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.7/Fetch.Puppy.2.7.zip" length="81204730" type="application/octet-stream" sparkle:edSignature="S6X4gdXowWaogH1Ez4SwL6lMlkTnWmKYTjdvkvZOTDkvfNeuc73HgGtbsIhdNnNXsMWGjgncJmjCuAKrv0VwCA=="/>
+        </item>
+        <item>
             <title>2.6</title>
             <pubDate>Fri, 21 Aug 2026 23:06:53 +1000</pubDate>
             <sparkle:version>14</sparkle:version>
