@@ -6,6 +6,45 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.8</title>
+            <pubDate>Wed, 30 Sep 2026 19:59:26 +1000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">Faster YouTube audio downloads</li>
+<li style="margin-bottom:6px">YouTube playlist songs land one by one as they finish, and Cancel keeps the finished ones</li>
+<li style="margin-bottom:6px">CSV track lists can include a Duration column for tracks over 10 minutes</li>
+<li style="margin-bottom:6px">Downloads that only loosely match the track are tagged "Closest match"</li>
+<li style="margin-bottom:6px">Number tracks is now on the YouTube tab and also numbers video playlists and albums</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">WAV downloads from Apple Music and Spotify no longer come out empty</li>
+<li style="margin-bottom:6px">AIFF files keep their artist, album, track number and cover</li>
+<li style="margin-bottom:6px">FLAC files are now true 16-bit</li>
+<li style="margin-bottom:6px">AAC audio from social media no longer carries a video track</li>
+<li style="margin-bottom:6px">Video downloads from Spotify, Apple Music and CSV get the music video, not an audio upload</li>
+<li style="margin-bottom:6px">Stopping a download while it converts no longer leaves a cut-short file</li>
+<li style="margin-bottom:6px">Downloading a playlist or album again keeps each old file until its new copy is complete, and leaves other formats alone</li>
+<li style="margin-bottom:6px">Retry re-downloads the exact video for YouTube playlists and Search</li>
+<li style="margin-bottom:6px">Songs are matched more reliably, including titles with apostrophes or in non-Latin scripts, and more often to their album version</li>
+<li style="margin-bottom:6px">Songs that YouTube's search hides behind an age check are found again</li>
+<li style="margin-bottom:6px">When a match can't be downloaded, the next best match is used instead of failing</li>
+<li style="margin-bottom:6px">Search shows a full, steady list of videos, with more of them on screen</li>
+<li style="margin-bottom:6px">Spotify share links (spotify.link) now work</li>
+<li style="margin-bottom:6px">Channel and profile links are refused instead of downloading a whole feed</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">None known</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.8/Fetch.Puppy.2.8.zip" length="81456573" type="application/octet-stream" sparkle:edSignature="5Wm/Fa3CKfs8B97SBfiw50YLrR7h+sIRDGKsy7mJDL6Rm6+o9Xv58jekhVf1ZYaR5YFpry2Q/tfx7fSgJxJHDA=="/>
+        </item>
+        <item>
             <title>2.7</title>
             <pubDate>Sun, 13 Sep 2026 20:33:02 +1000</pubDate>
             <sparkle:version>15</sparkle:version>
