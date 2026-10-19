@@ -6,6 +6,34 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.9</title>
+            <pubDate>Mon, 19 Oct 2026 11:16:47 +1100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">New option to name files Title - Artist instead of Artist - Title, in Settings and on the Spotify, Apple Music and CSV pages</li>
+<li style="margin-bottom:6px">Download engine updated for the latest YouTube changes</li>
+<li style="margin-bottom:6px">A failed social media download now says why in its row</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">In numbered playlists and albums, a track with no artist no longer gets "Untitled" in its file name</li>
+<li style="margin-bottom:6px">TikTok videos that failed to download while a browser on this Mac held TikTok cookies download again</li>
+<li style="margin-bottom:6px">Public Reddit videos that failed to download now download</li>
+<li style="margin-bottom:6px">Public Vimeo links that asked for a login now download</li>
+<li style="margin-bottom:6px">A download that failed before its title loaded now shows its link instead of "Queued"</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">Some Instagram and Vimeo videos only download while you are logged in to them in the browser Fetch Puppy uses, shown in Settings</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.9/Fetch.Puppy.2.9.zip" length="81620715" type="application/octet-stream" sparkle:edSignature="gYBebLpMBk1hsEaIv71lGEuB1GGzkMFzACdWj+kqqqyWHts8GpNZ5sDir94ii1MZdQzyHJKiJ4JQCji8VG8bCg=="/>
+        </item>
+        <item>
             <title>2.8</title>
             <pubDate>Wed, 30 Sep 2026 19:59:26 +1000</pubDate>
             <sparkle:version>16</sparkle:version>
