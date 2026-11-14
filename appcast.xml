@@ -6,6 +6,32 @@
         <description>Most recent updates to Fetch Puppy</description>
         <language>en</language>
         <item>
+            <title>2.10</title>
+            <pubDate>Sat, 14 Nov 2026 20:45:25 +1100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">An example file name under the naming options shows how your files will be named, on the Spotify, Apple Music and CSV pages and in Settings</li>
+<li style="margin-bottom:6px">Download engine updated for the latest YouTube changes</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">The Downloads list no longer jumps back to the current track each time a download finishes</li>
+<li style="margin-bottom:6px">After Spotify sign-in, Fetch Puppy closes the browser it opened and leaves a browser you already had open alone</li>
+<li style="margin-bottom:6px">A Facebook video that needs a login now says so in its row</li>
+<li style="margin-bottom:6px">A social media download that failed with no title now shows its link</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">Some Instagram, Facebook and Vimeo videos only download while you are logged in to them in the browser Fetch Puppy uses, shown in Settings</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/fetchpuppy-updates/releases/download/v2.10/Fetch.Puppy.2.10.zip" length="79816371" type="application/octet-stream" sparkle:edSignature="GXTt/+vrYLG5HmcW1x+I/gceMX0HjzB7hH3yRqaWSPP7/jv9CmEATYr/dFRaoXWDeUWzZMr7cqIiN8uo+WGdBQ=="/>
+        </item>
+        <item>
             <title>2.9</title>
             <pubDate>Mon, 19 Oct 2026 11:16:47 +1100</pubDate>
             <sparkle:version>17</sparkle:version>
